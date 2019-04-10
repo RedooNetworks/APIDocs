@@ -1,5 +1,5 @@
 # API Reference of CRM / Module Framework
 
-[FlexSuite Reference](/flexsuite)
+[FlexSuite Reference](flexsuite)
 
-[Workflow Designer Reference](/workflow2)
+[Workflow Designer Reference](workflow2)
